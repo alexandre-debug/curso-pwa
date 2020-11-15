@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.curso.twa",
-    "sha256_cert_fingerprints":
-    ["D7:E3:A3:8F:8C:28:B6:03:73:8F:46:C1:96:95:EE:2D:09:E5:65:2E:04:58:EE:FC:47:22:BF:B9:DB:CA:72:CA"]
-  }
-}]
